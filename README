@@ -1,1 +1,25 @@
 Project under GPLV3 license.  
+
+Uses SDL2/ OpenGL. 
+
+Only tested under linux so far. 
+
+Compile with make and execute halaman in makebin
+
+Simulations plants. Green cells are plants and brown cells are seeds. Uses a DNA inspired system of 'codes' (=instructions) that determine the life of a plant, such as buildign another cell or building a seed. Random mutations of the 'codes' (delete, insert, change) introduce entropy and that fuel the evolution.
+
+
+Some  keys:
+
+u -       start/stop simulation
+space -   single step
+n -       fullscreen
+m -       toggle mouse focus
+c -       display crosshair
+e -       focus the plant under the cursor and toogle display of 'codes' of selected plant (up / down arrows to scroll)
+f -       only display focused plant 
+v -       toggle seed rendering
+b -       toggle 'green' rendering
+t -       toggle rendering of stats
+l -       toggle light
+r -       toggle rendering
