@@ -12,7 +12,7 @@ such as buildign another cell or building a seed.
 Random mutations of the 'codes' (delete, insert, change) introduce entropy and fuel the evolution.
 
 
-Some  keys:
+Keys:
 
 u -       start/stop simulation
 space -   single step
