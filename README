@@ -6,7 +6,10 @@ Only tested under linux so far.
 
 Compile with make and execute halaman in makebin
 
-Simulations plants. Green cells are plants and brown cells are seeds. Uses a DNA inspired system of 'codes' (=instructions) that determine the life of a plant, such as buildign another cell or building a seed. Random mutations of the 'codes' (delete, insert, change) introduce entropy and that fuel the evolution.
+Simulations plants. Green cells are plants and brown cells are seeds. 
+Uses a DNA inspired system of 'codes' (=instructions) that determine the life of a plant, 
+such as buildign another cell or building a seed. 
+Random mutations of the 'codes' (delete, insert, change) introduce entropy and fuel the evolution.
 
 
 Some  keys:
